@@ -1,0 +1,17 @@
+<svg width="220" height="60" viewBox="0 0 220 60" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Horse Icon (Simplified Centaur Style) -->
+  <path d="M20 40 L35 20 L50 25 L60 15 L70 25 L60 35 L50 30 L40 45 Z" 
+        fill="#09947d"/>
+
+  <!-- Company Name -->
+  <text x="80" y="35" font-family="Arial, sans-serif" font-size="22" fill="#09947d" font-weight="bold">
+    Centaur
+  </text>
+
+  <!-- Tagline -->
+  <text x="80" y="52" font-family="Arial, sans-serif" font-size="12" fill="#000000">
+    Billing IT Solutions
+  </text>
+
+</svg>
